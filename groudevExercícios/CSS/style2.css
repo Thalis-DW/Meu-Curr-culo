@@ -1,0 +1,26 @@
+h1 {
+    background-color: rgb(218, 213, 213);
+}
+
+div {
+    height: 50px;
+    width: 200px;
+    background-color: maroon;
+}
+
+/* Estilo do quadro principal */
+#quadro2 {
+    opacity: 0.6;
+}
+
+/* Estilo do terceiro quadro
+vai ficar com opacidade 0.3
+ */
+#quadro3 {
+    opacity: 0.3;
+}
+
+/* Estilo do quarto quadro */
+#quadro4 {
+    opacity: 0.1;
+}

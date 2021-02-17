@@ -1,0 +1,6 @@
+div {
+    border: 1px solid black;
+    margin: 50px;
+    /* ordem: top, righ, bottom, left */
+    padding: 50px 100px 75px 95px;
+} 

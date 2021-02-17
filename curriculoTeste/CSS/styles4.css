@@ -1,0 +1,87 @@
+body {
+    font-family: 'Poppins';
+    background-color: aqua;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+#dados {
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    margin: 100px 50px;
+    box-shadow: -10px 5px 20px 0px #292a2d;
+}
+
+#perfil-card {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.img-perfil-card {
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 15px;
+    border-radius: 50%;
+}
+
+.card-padding {
+    padding: 50px;
+}
+
+#card-dados {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#contato {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.btn {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 7px 50px;
+    font-weight: 700px;
+    color: black;
+    text-decoration: none;
+    user-select: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#bemvindo {
+    font-size: 22px;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+    width: 50%;
+}
